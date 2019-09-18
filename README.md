@@ -19,7 +19,7 @@ Object Detection API is used to extract the bounding box for license plate
 
 ![output](https://github.com/Kshitijpawar/License_Plate_Detection/blob/master/document/plate.png)
 
-![ocr](https://github.com/Kshitijpawar/License_Plate_Detection/blob/master/document/ocr.png)
+![ocr](https://github.com/Kshitijpawar/License_Plate_Detection/blob/master/document/ocr_new.png)
 
 ## Technologies
 * Tensorflow(Object Detection API)
